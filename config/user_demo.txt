@@ -1,0 +1,443 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+
+#央视频道
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="中央电视台",CCTV-1 综合
+CCTV1
+
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="中央电视台",CCTV-2 财经
+CCTV2
+
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="中央电视台",CCTV-3 综艺
+CCTV3
+
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="中央电视台",CCTV-4 国际
+CCTV4
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="中央电视台",CCTV-5 体育
+CCTV5
+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="中央电视台",CCTV-5+ 体育+
+CCTV5＋
+
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="中央电视台",CCTV-6 电影
+CCTV6
+
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="中央电视台",CCTV-7 军事
+CCTV7
+
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="中央电视台",CCTV-8 电视剧
+CCTV8
+
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="中央电视台",CCTV-9 纪录
+CCTV9
+
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="中央电视台",CCTV-10 科教
+CCTV10
+
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="中央电视台",CCTV-11 戏曲
+CCTV11
+
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="中央电视台",CCTV-12 社会
+CCTV12
+
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="中央电视台",CCTV-13 新闻
+CCTV13
+
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="中央电视台",CCTV-14 少儿
+CCTV14
+
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="中央电视台",CCTV-15 音乐
+CCTV15
+
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中央电视台",CCTV-16 国际
+CCTV16
+
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="中央电视台",CCTV-17 农业
+CCTV17
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="中央电视台",CGTN
+CGTN
+
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="中央电视台",CGTN 西语
+CGTN西语
+
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="中央电视台",CGTN 法语
+CGTN法语
+
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="中央电视台",CGTN 俄语
+CGTN俄语
+
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="中央电视台",CGTN 阿语
+CGTN阿语
+
+#卫视频道
+
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
+安徽卫视
+
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
+北京卫视
+
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
+重庆卫视
+
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
+东方卫视
+
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
+东南卫视
+
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视",甘肃卫视
+甘肃卫视
+
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
+广东卫视
+
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视
+广西卫视
+
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
+贵州卫视
+
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
+海南卫视
+
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
+河北卫视
+
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
+河南卫视
+
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+黑龙江卫视
+
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
+湖北卫视
+
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
+湖南卫视
+
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
+吉林卫视
+
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
+江苏卫视
+
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
+江西卫视
+
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
+辽宁卫视
+
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+内蒙古卫视
+
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视",宁夏卫视
+宁夏卫视
+
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视",青海卫视
+青海卫视
+
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
+山东卫视
+
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视",山西卫视
+山西卫视
+
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视",陕西卫视
+陕西卫视
+
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
+深圳卫视
+
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
+四川卫视
+
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
+天津卫视
+
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视",西藏卫视
+西藏卫视
+
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视",新疆卫视
+新疆卫视
+
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视",云南卫视
+云南卫视
+
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
+浙江卫视
+
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="其它",CETV1
+CETV1
+
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="其它",CETV2
+CETV2
+
+#EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="https://live.fanmingming.com/tv/优购物.png" group-title="其它",优购物
+优购物
+
+#EXTINF:-1 tvg-id="快乐购物" tvg-name="快乐购物" tvg-logo="https://live.fanmingming.com/tv/快乐购物.png" group-title="其它",快乐购物
+快乐购物
+
+#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="其它",央广购物
+央广购物
+
+#EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://live.fanmingming.com/tv/福建综合.png" group-title="其它",福建综合
+福建综合
+
+#EXTINF:-1 tvg-id="福建公共" tvg-name="福建公共" tvg-logo="https://live.fanmingming.com/tv/福建公共.png" group-title="其它",福建公共
+福建公共
+
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png" group-title="其它",海峡卫视
+海峡卫视
+
+#EXTINF:-1 tvg-id="福建教育频道" tvg-name="福建教育频道" tvg-logo="https://live.fanmingming.com/tv/福建教育频道.png" group-title="其它",福建教育频道
+福建教育频道
+
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="其它",厦门卫视
+厦门卫视
+
+#EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="https://live.fanmingming.com/tv/聚鲨环球精选.png" group-title="其它",聚鲨环球精选
+聚鲨环球精选
+
+#EXTINF:-1 tvg-id="纪实频道" tvg-name="纪实频道" tvg-logo="https://live.fanmingming.com/tv/纪实频道.png" group-title="其它",纪实频道
+纪实频道
+
+#EXTINF:-1 tvg-id="中国气象" tvg-name="中国气象" tvg-logo="https://live.fanmingming.com/tv/中国气象.png" group-title="其它",中国气象
+中国气象
+
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="其它",金鹰卡通
+金鹰卡通
+
+#EXTINF:-1 tvg-id="卡酷卡通" tvg-name="卡酷卡通" tvg-logo="https://live.fanmingming.com/tv/卡酷卡通.png" group-title="其它",卡酷卡通
+卡酷卡通
+
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="其它",兵团卫视
+兵团卫视
+
+#EXTINF:-1 tvg-id="南方卫视" tvg-name="南方卫视" tvg-logo="https://live.fanmingming.com/tv/南方卫视.png" group-title="其它",南方卫视
+南方卫视
+
+#EXTINF:-1 tvg-id="金鹰纪实卫视" tvg-name="金鹰纪实卫视" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实卫视.png" group-title="其它",金鹰纪实卫视
+金鹰纪实卫视
+
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="其它",三沙卫视
+三沙卫视
+
+#EXTINF:-1 tvg-id="中国教育4" tvg-name="中国教育4" tvg-logo="https://live.fanmingming.com/tv/中国教育4.png" group-title="其它",中国教育4
+中国教育4
+
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="其它",欢笑剧场
+欢笑剧场
+
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="其它",都市剧场
+都市剧场
+
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="其它",哈哈炫动
+哈哈炫动
+
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="其它",动漫秀场
+动漫秀场
+
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="其它",嘉佳卡通
+嘉佳卡通
+
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="其它",游戏风云
+游戏风云
+
+#EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/全纪实.png" group-title="其它",全纪实
+全纪实
+
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="其它",法治天地
+法治天地
+
+#EXTINF:-1 tvg-id="东方财*" tvg-name="东方财*" tvg-logo="https://live.fanmingming.com/tv/东方财*.png" group-title="其它",东方财*
+东方财*
+
+#EXTINF:-1 tvg-id="金色频道" tvg-name="金色频道" tvg-logo="https://live.fanmingming.com/tv/金色频道.png" group-title="其它",金色频道
+金色频道
+
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="其它",快乐垂钓
+快乐垂钓
+
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="其它",生活时尚
+生活时尚
+
+#EXTINF:-1 tvg-id="中华特产(测试)" tvg-name="中华特产(测试)" tvg-logo="https://live.fanmingming.com/tv/中华特产(测试).png" group-title="其它",中华特产(测试)
+中华特产(测试)
+
+#EXTINF:-1 tvg-id="车迷(测试)" tvg-name="车迷(测试)" tvg-logo="https://live.fanmingming.com/tv/车迷(测试).png" group-title="其它",车迷(测试)
+车迷(测试)
+
+#EXTINF:-1 tvg-id="优优宝贝(测试)" tvg-name="优优宝贝(测试)" tvg-logo="https://live.fanmingming.com/tv/优优宝贝(测试).png" group-title="其它",优优宝贝(测试)
+优优宝贝(测试)
+
+#EXTINF:-1 tvg-id="环球旅游(测试)" tvg-name="环球旅游(测试)" tvg-logo="https://live.fanmingming.com/tv/环球旅游(测试).png" group-title="其它",环球旅游(测试)
+环球旅游(测试)
+
+#EXTINF:-1 tvg-id="生态环境(测试)" tvg-name="生态环境(测试)" tvg-logo="https://live.fanmingming.com/tv/生态环境(测试).png" group-title="其它",生态环境(测试)
+生态环境(测试)
+
+#EXTINF:-1 tvg-id="百姓健康(测试)" tvg-name="百姓健康(测试)" tvg-logo="https://live.fanmingming.com/tv/百姓健康(测试).png" group-title="其它",百姓健康(测试)
+百姓健康(测试)
+
+#EXTINF:-1 tvg-id="四海钓鱼(测试)" tvg-name="四海钓鱼(测试)" tvg-logo="https://live.fanmingming.com/tv/四海钓鱼(测试).png" group-title="其它",四海钓鱼(测试)
+四海钓鱼(测试)
+
+#EXTINF:-1 tvg-id="家庭理财(测试)" tvg-name="家庭理财(测试)" tvg-logo="https://live.fanmingming.com/tv/家庭理财(测试).png" group-title="其它",家庭理财(测试)
+家庭理财(测试)
+
+#EXTINF:-1 tvg-id="财富天下(测试)" tvg-name="财富天下(测试)" tvg-logo="https://live.fanmingming.com/tv/财富天下(测试).png" group-title="其它",财富天下(测试)
+财富天下(测试)
+
+#EXTINF:-1 tvg-id="证券服务(测试)" tvg-name="证券服务(测试)" tvg-logo="https://live.fanmingming.com/tv/证券服务(测试).png" group-title="其它",证券服务(测试)
+证券服务(测试)
+
+#EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="其它",先锋乒羽
+先锋乒羽
+
+#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://live.fanmingming.com/tv/茶频道.png" group-title="其它",茶频道
+茶频道
+
+#EXTINF:-1 tvg-id="CHC动作频道" tvg-name="CHC动作频道" tvg-logo="https://live.fanmingming.com/tv/CHC动作频道.png" group-title="其它",CHC动作频道
+CHC动作频道
+
+#EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/梨园.png" group-title="其它",梨园
+梨园
+
+#EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="其它",文物宝库
+文物宝库
+
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="其它",武术世界
+武术世界
+
+#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://live.fanmingming.com/tv/新动漫.png" group-title="其它",新动漫
+新动漫
+
+#EXTINF:-1 tvg-id="中学生(测试)" tvg-name="中学生(测试)" tvg-logo="https://live.fanmingming.com/tv/中学生(测试).png" group-title="其它",中学生(测试)
+中学生(测试)
+
+#EXTINF:-1 tvg-id="发现之旅(测试)" tvg-name="发现之旅(测试)" tvg-logo="https://live.fanmingming.com/tv/发现之旅(测试).png" group-title="其它",发现之旅(测试)
+发现之旅(测试)
+
+#EXTINF:-1 tvg-id="书画频道(测试)" tvg-name="书画频道(测试)" tvg-logo="https://live.fanmingming.com/tv/书画频道(测试).png" group-title="其它",书画频道(测试)
+书画频道(测试)
+
+#EXTINF:-1 tvg-id="老故事频道(测试)" tvg-name="老故事频道(测试)" tvg-logo="https://live.fanmingming.com/tv/老故事频道(测试).png" group-title="其它",老故事频道(测试)
+老故事频道(测试)
+
+#EXTINF:-1 tvg-id="福州新闻" tvg-name="福州新闻" tvg-logo="https://live.fanmingming.com/tv/福州新闻.png" group-title="其它",福州新闻
+福州新闻
+
+#EXTINF:-1 tvg-id="厦门1套" tvg-name="厦门1套" tvg-logo="https://live.fanmingming.com/tv/厦门1套.png" group-title="其它",厦门1套
+厦门1套
+
+#EXTINF:-1 tvg-id="漳州新闻" tvg-name="漳州新闻" tvg-logo="https://live.fanmingming.com/tv/漳州新闻.png" group-title="其它",漳州新闻
+漳州新闻
+
+#EXTINF:-1 tvg-id="泉州新闻" tvg-name="泉州新闻" tvg-logo="https://live.fanmingming.com/tv/泉州新闻.png" group-title="其它",泉州新闻
+泉州新闻
+
+#EXTINF:-1 tvg-id="三明新闻" tvg-name="三明新闻" tvg-logo="https://live.fanmingming.com/tv/三明新闻.png" group-title="其它",三明新闻
+三明新闻
+
+#EXTINF:-1 tvg-id="莆田新闻" tvg-name="莆田新闻" tvg-logo="https://live.fanmingming.com/tv/莆田新闻.png" group-title="其它",莆田新闻
+莆田新闻
+
+#EXTINF:-1 tvg-id="南平新闻" tvg-name="南平新闻" tvg-logo="https://live.fanmingming.com/tv/南平新闻.png" group-title="其它",南平新闻
+南平新闻
+
+#EXTINF:-1 tvg-id="龙岩新闻" tvg-name="龙岩新闻" tvg-logo="https://live.fanmingming.com/tv/龙岩新闻.png" group-title="其它",龙岩新闻
+龙岩新闻
+
+#EXTINF:-1 tvg-id="宁德新闻" tvg-name="宁德新闻" tvg-logo="https://live.fanmingming.com/tv/宁德新闻.png" group-title="其它",宁德新闻
+宁德新闻
+
+#EXTINF:-1 tvg-id="马赛克导航1" tvg-name="马赛克导航1" tvg-logo="https://live.fanmingming.com/tv/马赛克导航1.png" group-title="其它",马赛克导航1
+马赛克导航1
+
+#EXTINF:-1 tvg-id="马赛克导航2" tvg-name="马赛克导航2" tvg-logo="https://live.fanmingming.com/tv/马赛克导航2.png" group-title="其它",马赛克导航2
+马赛克导航2
+
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="其它",CGTN 法语
+CGTN法语
+
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="其它",CGTN 俄语
+CGTN俄语
+
+#EXTINF:-1 tvg-id="CGTN英文纪录" tvg-name="CGTN英文纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN英文纪录.png" group-title="其它",CGTN 英文纪录
+CGTN英文纪录
+
+#EXTINF:-1 tvg-id="三明慢直播1" tvg-name="三明慢直播1" tvg-logo="https://live.fanmingming.com/tv/三明慢直播1.png" group-title="其它",三明慢直播1
+三明慢直播1
+
+#EXTINF:-1 tvg-id="三明慢直播2" tvg-name="三明慢直播2" tvg-logo="https://live.fanmingming.com/tv/三明慢直播2.png" group-title="其它",三明慢直播2
+三明慢直播2
+
+#EXTINF:-1 tvg-id="三明慢直播3" tvg-name="三明慢直播3" tvg-logo="https://live.fanmingming.com/tv/三明慢直播3.png" group-title="其它",三明慢直播3
+三明慢直播3
+
+#EXTINF:-1 tvg-id="直播室101" tvg-name="直播室101" tvg-logo="https://live.fanmingming.com/tv/直播室101.png" group-title="其它",直播室101
+直播室101
+
+#EXTINF:-1 tvg-id="直播室102" tvg-name="直播室102" tvg-logo="https://live.fanmingming.com/tv/直播室102.png" group-title="其它",直播室102
+直播室102
+
+#EXTINF:-1 tvg-id="直播室103" tvg-name="直播室103" tvg-logo="https://live.fanmingming.com/tv/直播室103.png" group-title="其它",直播室103
+直播室103
+
+#EXTINF:-1 tvg-id="直播室104" tvg-name="直播室104" tvg-logo="https://live.fanmingming.com/tv/直播室104.png" group-title="其它",直播室104
+直播室104
+
+#EXTINF:-1 tvg-id="直播室105" tvg-name="直播室105" tvg-logo="https://live.fanmingming.com/tv/直播室105.png" group-title="其它",直播室105
+直播室105
+
+#EXTINF:-1 tvg-id="直播室106" tvg-name="直播室106" tvg-logo="https://live.fanmingming.com/tv/直播室106.png" group-title="其它",直播室106
+直播室106
+
+#EXTINF:-1 tvg-id="直播室107" tvg-name="直播室107" tvg-logo="https://live.fanmingming.com/tv/直播室107.png" group-title="其它",直播室107
+直播室107
+
+#EXTINF:-1 tvg-id="CCTV5(标清)" tvg-name="CCTV5(标清)" tvg-logo="https://live.fanmingming.com/tv/CCTV5(标清).png" group-title="其它",CCTV5(标清)
+CCTV5(标清)
+
+#EXTINF:-1 tvg-id="融媒体直播" tvg-name="融媒体直播" tvg-logo="https://live.fanmingming.com/tv/融媒体直播.png" group-title="其它",融媒体直播
+融媒体直播
+
+#EXTINF:-1 tvg-id="第一财*" tvg-name="第一财*" tvg-logo="https://live.fanmingming.com/tv/第一财*.png" group-title="其它",第一财*
+第一财*
+
+#EXTINF:-1 tvg-id="高网频道" tvg-name="高网频道" tvg-logo="https://live.fanmingming.com/tv/高网频道.png" group-title="其它",高网频道
+高网频道
+
+#EXTINF:-1 tvg-id="新闻综合广播" tvg-name="新闻综合广播" tvg-logo="https://live.fanmingming.com/tv/新闻综合广播.png" group-title="其它",新闻综合广播
+新闻综合广播
+
+#EXTINF:-1 tvg-id="交通广播" tvg-name="交通广播" tvg-logo="https://live.fanmingming.com/tv/交通广播.png" group-title="其它",交通广播
+交通广播
+
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="其它",爱上4K
+爱上4K
+
+#EXTINF:-1 tvg-id="松溪慢直播" tvg-name="松溪慢直播" tvg-logo="https://live.fanmingming.com/tv/松溪慢直播.png" group-title="其它",松溪慢直播
+松溪慢直播
+
+#EXTINF:-1 tvg-id="股评汇" tvg-name="股评汇" tvg-logo="https://live.fanmingming.com/tv/股评汇.png" group-title="其它",股评汇
+股评汇
+
+#EXTINF:-1 tvg-id="党建频道" tvg-name="党建频道" tvg-logo="https://live.fanmingming.com/tv/党建频道.png" group-title="其它",党建频道
+党建频道
+
+#EXTINF:-1 tvg-id="党建频道2" tvg-name="党建频道2" tvg-logo="https://live.fanmingming.com/tv/党建频道2.png" group-title="其它",党建频道2
+党建频道2
+
+#EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://live.fanmingming.com/tv/福建综合.png" group-title="其它",福建综合
+福建综合
+
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="其它",东南卫视
+东南卫视
+
+#EXTINF:-1 tvg-id="CCTV1-2311" tvg-name="CCTV1-2311" tvg-logo="https://live.fanmingming.com/tv/CCTV1-2311.png" group-title="其它",CCTV1-2311
+CCTV1-2311
