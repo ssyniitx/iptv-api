@@ -1,3 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/ssyniitx/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-03 06:26:22
-url
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-02 18:52:27
+http://e1.woc.iiiya.cn:18888/rtp/239.61.2.3:8012
+#EXTINF:-1 tvg-name="福建公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/福建公共.png" group-title="☘️福建频道",福建公共
+http://e1.woc.iiiya.cn:18888/rtp/239.61.2.3:8012
+#EXTINF:-1 tvg-name="福建旅游" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/福建旅游.png" group-title="☘️福建频道",福建旅游
+http://e1.woc.iiiya.cn:18888/rtp/239.61.2.6:8030
