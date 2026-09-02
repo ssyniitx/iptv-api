@@ -1,1 +1,4 @@
-Name: 福建旅游, URL: http://e1.woc.iiiya.cn:18888/rtp/239.61.2.6:8030, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-厦门, ISP: 电信, Date: None, Delay: 876 ms, Speed: 0.20 M/s, Resolution: 1920x1080
+Name: 江苏卫视, URL: http://120.40.39.246:352/newlive/live/hls/31/live.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 10950 ms, Speed: 0.28 M/s, Resolution: 1920x1080
+Name: 山东卫视, URL: http://120.40.39.246:352/newlive/live/hls/35/live.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 10865 ms, Speed: 0.27 M/s, Resolution: 1920x1080
+Name: 海峡卫视, URL: http://120.40.39.246:352/newlive/live/hls/27/live.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 10055 ms, Speed: 0.17 M/s, Resolution: 1920x1080
+Name: 福建旅游, URL: http://e1.woc.iiiya.cn:18888/rtp/239.61.2.6:8030, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-厦门, ISP: 电信, Date: None, Delay: 687 ms, Speed: 0.87 M/s, Resolution: 1920x1080

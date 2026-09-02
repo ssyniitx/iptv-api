@@ -1,9 +1,14 @@
 🕘️更新时间,#genre#
-2026-08-03 06:59:10,http://e1.woc.iiiya.cn:18888/rtp/239.61.2.6:8030
+2026-09-02 22:12:33,http://120.40.39.246:352/newlive/live/hls/31/live.m3u8
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
 
+📡卫视频道,#genre#
+江苏卫视,http://120.40.39.246:352/newlive/live/hls/31/live.m3u8
+山东卫视,http://120.40.39.246:352/newlive/live/hls/35/live.m3u8
+
 ☘️福建频道,#genre#
+海峡卫视,http://120.40.39.246:352/newlive/live/hls/27/live.m3u8
 福建旅游,http://e1.woc.iiiya.cn:18888/rtp/239.61.2.6:8030
