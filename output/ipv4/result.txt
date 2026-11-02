@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-03 09:01:11,http://120.40.39.246:352/newlive/live/hls/27/live.m3u8
+2026-11-03 04:04:19,http://120.40.39.246:352/newlive/live/hls/27/live.m3u8
 
 📺央视频道,#genre#
 
